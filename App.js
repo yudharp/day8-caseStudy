@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
-import ModalComponent from './src/components/modal';
+import ModalComponent from './src/components/ModalComponent';
 
 export default function App() {
   const [saldo, setSaldo] = useState(0);
@@ -28,7 +28,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Image source={require('./src/assets/wallet.png')} style={styles.walletImage} />
+      <Image source={require('./src/assets/dompet4.png')} style={styles.walletImage} />
       <Text style={styles.header}>Saldo Anda:</Text>
       <Text style={styles.saldo}>Rp {saldo}</Text>
       <TouchableOpacity style={styles.topUpButton} onPress={() => setModalVisible(true)}>
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f0f0f0',
+    backgroundColor: '#00A39D',
   },
   walletImage: {
     width: 100,
@@ -66,14 +66,15 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 20,
+    color : '#FFFFFF'
   },
   saldo: {
     fontSize: 36,
     marginBottom: 30,
-    color: '#007bff',
+    color: '#FFFFFF',
   },
   topUpButton: {
-    backgroundColor: '#007bff',
+    backgroundColor: '#F8AD3C',
     paddingVertical: 12,
     paddingHorizontal: 50,
     borderRadius: 5,

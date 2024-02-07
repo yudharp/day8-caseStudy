@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   modalHeader: {
     fontSize: 24,
     fontWeight: 'bold',
-    marginBottom: 20,
+    marginBottom: 50,
   },
   input: {
     width: '100%',
@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     borderRadius: 5,
   },
   confirmButton: {
-    backgroundColor: '#007bff',
+    backgroundColor: '#F8AD3C',
     paddingVertical: 12,
     paddingHorizontal: 50,
     borderRadius: 5,
