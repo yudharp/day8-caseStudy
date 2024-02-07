@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "day8-caseStudy",
-    "slug": "day8-caseStudy",
+    "name": "day8-caseStudy-be",
+    "slug": "day8-caseStudy-be",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

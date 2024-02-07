@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "day8caseStudy.app"
-               BlueprintName = "day8caseStudy"
-               ReferencedContainer = "container:day8caseStudy.xcodeproj">
+               BuildableName = "day8caseStudybe.app"
+               BlueprintName = "day8caseStudybe"
+               ReferencedContainer = "container:day8caseStudybe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "day8caseStudyTests.xctest"
-               BlueprintName = "day8caseStudyTests"
-               ReferencedContainer = "container:day8caseStudy.xcodeproj">
+               BuildableName = "day8caseStudybeTests.xctest"
+               BlueprintName = "day8caseStudybeTests"
+               ReferencedContainer = "container:day8caseStudybe.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "day8caseStudy.app"
-            BlueprintName = "day8caseStudy"
-            ReferencedContainer = "container:day8caseStudy.xcodeproj">
+            BuildableName = "day8caseStudybe.app"
+            BlueprintName = "day8caseStudybe"
+            ReferencedContainer = "container:day8caseStudybe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "day8caseStudy.app"
-            BlueprintName = "day8caseStudy"
-            ReferencedContainer = "container:day8caseStudy.xcodeproj">
+            BuildableName = "day8caseStudybe.app"
+            BlueprintName = "day8caseStudybe"
+            ReferencedContainer = "container:day8caseStudybe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

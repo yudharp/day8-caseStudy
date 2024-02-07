@@ -1,4 +1,4 @@
-package com.day8casestudy
+package com.day8casestudybe
 
 import android.app.Application
 import android.content.res.Configuration
